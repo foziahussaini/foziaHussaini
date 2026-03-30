@@ -13,23 +13,15 @@ Passionate about solving real-word problems through code and data.
 
 **Languages and Tools:**
 
-![HTML5](https://img.shields.io)
-![CSS3](https://img.shields.io)
-![TailwindCSS](https://img.shields.io)
-![JavaScript](https://img.shields.io)
-![React](https://img.shields.io)
-![Dart](https://img.shields.io)
-![Flutter](https://img.shields.io)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+[![HTML5](https://img.shields.io)](https://developer.mozilla.org)
+[![CSS3](https://img.shields.io)](https://developer.mozilla.org)
+[![Tailwind_CSS](https://img.shields.io)](https://tailwindcss.com)
+[![JavaScript](https://img.shields.io)](https://developer.mozilla.org)
+[![React](https://img.shields.io)](https://react.dev)
+[![Dart](https://img.shields.io)](https://dart.dev)
+[![Flutter](https://img.shields.io)](https://flutter.dev)
+[![Git](https://img.shields.io)](https://git-scm.com)
 
----
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
