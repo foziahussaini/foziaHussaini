@@ -1,5 +1,6 @@
 # Hi 👋, I'm Fozia Hussaini
-**Frontend Developer, Mobile App Developer** with a background in **Disaster Management, Remote Sensing, and GIS engineer**.
+**Frontend Developer | Mobile App Developer** 
+with a background in **Disaster Management | Remote Sensing | GIS engineer**.
 Passionate about solving real-word problems through code and data.
 
 ---
@@ -16,10 +17,9 @@ Passionate about solving real-word problems through code and data.
 ![CSS3](https://img.shields.io)
 ![TailwindCSS](https://img.shields.io)
 ![JavaScript](https://img.shields.io)
-
-![React.js](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Flutter](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![React](https://img.shields.io)
+![Dart](https://img.shields.io)
+![Flutter](https://img.shields.io)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
