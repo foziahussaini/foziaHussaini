@@ -21,7 +21,7 @@ Passionate about solving real-word problems through code and data.
 [![Dart](https://img.shields.io)](https://dart.dev)
 [![Flutter](https://img.shields.io)](https://flutter.dev)
 [![Git](https://img.shields.io)](https://git-scm.com)
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![HTML5](https://img.shields.io)](https://developer.mozilla.org)
+[![CSS3](https://img.shields.io)](https://developer.mozilla.org)
+[![JavaScript](https://img.shields.io)](https://developer.mozilla.org)
 -->
