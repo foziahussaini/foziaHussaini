@@ -5,8 +5,8 @@
 
 **Connect with me:**
 
-- [LinkedIn](https://www.linkedin.com/in/fozia-hussaini-123456789)  <!-- Replace with your actual LinkedIn URL -->
-- [Email](mailto:your-email@example.com) <!-- Replace with your actual email -->
+- [LinkedIn]([https://www.linkedin.com/in/fozia-hussaini-123456789](https://www.linkedin.com/in/fozia-hussaini-19b47738a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Email]fauziakhudadad@gmail.comfauziakhudadad@gmail.com) 
 
 ---
 
