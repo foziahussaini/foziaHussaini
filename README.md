@@ -5,12 +5,6 @@ Passionate about solving real-word problems through code and data.
 
 ---
 
-**Connect with me:**
-
-
-
----
-
 **Languages and Tools:**
 
 [![HTML5](https://img.shields.io)](https://developer.mozilla.org)
@@ -21,7 +15,4 @@ Passionate about solving real-word problems through code and data.
 [![Dart](https://img.shields.io)](https://dart.dev)
 [![Flutter](https://img.shields.io)](https://flutter.dev)
 [![Git](https://img.shields.io)](https://git-scm.com)
-[![HTML5](https://img.shields.io)](https://developer.mozilla.org)
-[![CSS3](https://img.shields.io)](https://developer.mozilla.org)
-[![JavaScript](https://img.shields.io)](https://developer.mozilla.org)
--->
+
