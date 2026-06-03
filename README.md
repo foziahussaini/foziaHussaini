@@ -43,9 +43,21 @@ Passionate about solving real-word problems through code and data.
 
 </p>
 <p align="center">
-  ![My GitHub Stats](https://vercel.app)
-
-![My Top Languages](https://vercel.app)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=foziahussaini&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
+---
+
+## 🔝 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foziahussaini&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=foziahussaini&theme=radical" alt="GitHub Streak" />
+</p>
