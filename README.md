@@ -42,3 +42,8 @@ Passionate about solving real-word problems through code and data.
 </a>
 
 </p>
+<p align="center">
+  <img src="https://vercel.app" alt="Stats" width="48%" />
+  <img src="https://vercel.app" alt="Languages" width="48%" />
+</p>
+
