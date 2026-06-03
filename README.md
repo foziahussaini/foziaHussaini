@@ -43,7 +43,9 @@ Passionate about solving real-word problems through code and data.
 
 </p>
 <p align="center">
-  <img src="https://vercel.app" alt="Stats" width="48%" />
-  <img src="https://vercel.app" alt="Languages" width="48%" />
+  ![My GitHub Stats](https://vercel.app)
+
+![My Top Languages](https://vercel.app)
+
 </p>
 
