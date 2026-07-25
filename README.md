@@ -4,33 +4,30 @@
 with a background in **Disaster Management | Remote Sensing | GIS engineer**.  
 Passionate about solving real-world problems through code and data.
 
-## 💻 Skills & Proficiency
-
-| Skill | Proficiency | Percentage |
-| :--- | :--- | :--- |
-| 🟥 HTML / CSS | <img src="https://vercel.app" alt="99%" /> | 99% |
-| 🟨 JavaScript | <img src="https://vercel.app" alt="80%" /> | 80% |
-| 🟦 React | <img src="https://vercel.app" alt="75%" /> | 75% |
-| 💙 Flutter | <img src="https://vercel.app" alt="99%" /> | 99% |
-| 🔷 Dart | <img src="https://vercel.app" alt="100%" /> | 100% |
-| 🟧 Git | <img src="https://vercel.app" alt="80%" /> | 80% |
-| 🐍 Python | <img src="https://vercel.app" alt="30%" /> | 30% |
-| 🟩 Tailwind CSS | <img src="https://vercel.app" alt="65%" /> | 65% |
-| 🤖 GitHub Copilot | <img src="https://vercel.app" alt="80%" /> | 80% |
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://vercel.app" width="100%" alt="GitHub Activity Overview" />
+### Connect with me:
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://githubusercontent.com" alt="LinkedIn" width="30" height="40" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://vercel.app" width="49%" alt="Top Languages by Repo" />
-  <img src="https://vercel.app" width="49%" alt="Top Languages by Commit" />
+### Languages and Tools:
+<p align="left">
+  <img src="https://githubusercontent.com" alt="html5" width="40" height="40"/>
+  <img src="https://githubusercontent.com" alt="css3" width="40" height="40"/>
+  <img src="https://githubusercontent.com" alt="javascript" width="40" height="40"/>
+  <img src="https://githubusercontent.com" alt="react" width="40" height="40"/>
+  <img src="https://vectorlogo.zone" alt="flutter" width="40" height="40"/>
+  <img src="https://vectorlogo.zone" alt="dart" width="40" height="40"/>
+  <img src="https://githubusercontent.com" alt="python" width="40" height="40"/>
+  <img src="https://vectorlogo.zone" alt="tailwind" width="40" height="40"/>
+  <img src="https://vectorlogo.zone" alt="git" width="40" height="40"/>
 </p>
 
 <br/>
 
+## 📊 GitHub Contribution Stats
+
 <p align="center">
-  <img src="https://vercel.app" width="49%" alt="Top Languages" />
+  <img src="https://herokuapp.com" alt="GitHub Streak Stats" />
 </p>
