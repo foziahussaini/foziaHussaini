@@ -6,17 +6,17 @@ Passionate about solving real-world problems through code and data.
 
 ## 💻 Skills & Proficiency
 
-| Skill | Proficiency | Percentage |
+| Skill | Native Progress Meter | Percentage |
 | :--- | :--- | :--- |
-| 🟥 HTML / CSS | <img src="https://geps.dev" alt="99%" /> | 99% |
-| 🟨 JavaScript | <img src="https://geps.dev" alt="80%" /> | 80% |
-| 🟦 React | <img src="https://geps.dev" alt="75%" /> | 75% |
-| 💙 Flutter | <img src="https://geps.dev" alt="99%" /> | 99% |
-| 🔷 Dart | <img src="https://geps.dev" alt="100%" /> | 100% |
-| 🟧 Git | <img src="https://geps.dev" alt="80%" /> | 80% |
-| 🐍 Python | <img src="https://geps.dev" alt="30%" /> | 30% |
-| 🟩 Tailwind CSS | <img src="https://geps.dev" alt="65%" /> | 65% |
-| 🤖 GitHub Copilot | <img src="https://geps.dev" alt="80%" /> | 80% |
+| 🟥 HTML / CSS | `██████████` | 99% |
+| 🟨 JavaScript | `████████░░` | 80% |
+| 🟦 React | `███████░░░` | 75% |
+| 💙 Flutter | `██████████` | 99% |
+| 🔷 Dart | `██████████` | 100% |
+| 🟧 Git | `████████░░` | 80% |
+| 🐍 Python | `███░░░░░░░` | 30% |
+| 🟩 Tailwind CSS | `██████░░░░` | 65% |
+| 🤖 GitHub Copilot | `████████░░` | 80% |
 
 ## 🔥 GitHub Streak
 
