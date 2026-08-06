@@ -36,11 +36,13 @@
   </tr>
 </table>
 
-<!-- GitHub Stats Section -->
+<br/>
+
+<!-- GitHub Streak Stats Section -->
 <div align="center">
-  <h3>🔥 GitHub Stats</h3>
+  <h3>🔥 GitHub Streak</h3>
   <a href="https://github.com">
-    <img src="https://vercel.app" alt="Fozia's GitHub Stats" />
+    <img src="https://demolab.com" alt="GitHub Streak" />
   </a>
 </div>
 
