@@ -36,8 +36,6 @@
   </tr>
 </table>
 
-<br>
-
 <!-- GitHub Stats Section -->
 <div align="center">
   <h3>🔥 GitHub Stats</h3>
