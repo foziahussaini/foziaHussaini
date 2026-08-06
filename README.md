@@ -16,15 +16,15 @@
   <tr>
     <td valign="top" width="33%">
       <h3>📌 Focus</h3>
-      <p><strong>Mobile & Web Apps</strong></p>
+      <p><strong>Mobile App & Web Design</strong></p>
       <p>Building clean, responsive frontends and interactive mobile experiences using modern frameworks.</p>
     </td>
     <td valign="top" width="33%">
       <h3>💻 What I Do</h3>
-      • Frontend engineering<br>
+      • Frontend development<br>
       • Mobile app development<br>
-      • GIS & Remote sensing data<br>
-      • Disaster management tools
+      • Working with projects<br>
+      • Learning tech skills and tools<br>
     </td>
     <td valign="top" width="33%">
       <h3>🎨 What I Love</h3>
@@ -36,11 +36,12 @@
   </tr>
 </table>
 
-<br/>
+<br>
+
 <!-- GitHub Streak Stats Section -->
 <div align="center">
   <h3>🔥 GitHub Streak</h3>
-  <a href="https://git.io">
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
     <img src="https://herokuapp.com" alt="GitHub Streak" />
   </a>
 </div>
