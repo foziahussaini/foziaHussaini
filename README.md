@@ -41,15 +41,15 @@
 <!-- GitHub Streak Stats Section -->
 <div align="center">
   <h3>🔥 GitHub Streak</h3>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://herokuapp.com" alt="GitHub Streak" />
+  <a href="https://github.com">
+    <img src="https://demolab.com" alt="GitHub Streak" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <h3>🔗 Connect with me:</h3>
+  <h3>🔗 Lets Connect</h3>
   <p>
     <a href="https://linkedin.com" target="_blank">
       <img src="https://shields.io" alt="LinkedIn" />
