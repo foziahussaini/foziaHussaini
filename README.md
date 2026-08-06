@@ -38,18 +38,19 @@
 
 <br>
 
-<!-- GitHub Streak Stats Section -->
+<!-- GitHub Stats Section -->
 <div align="center">
-  <h3>🔥 GitHub Streak</h3>
+  <h3>🔥 GitHub Stats</h3>
   <a href="https://github.com">
-    <img src="https://demolab.com" alt="GitHub Streak" />
+    <img src="https://vercel.app" alt="Fozia's GitHub Stats" />
   </a>
 </div>
 
 <br/>
 
+<!-- Let's Connect Section -->
 <div align="center">
-  <h3>🔗 Lets Connect</h3>
+  <h3>🔗 Connect with me:</h3>
   <p>
     <a href="https://linkedin.com" target="_blank">
       <img src="https://shields.io" alt="LinkedIn" />
