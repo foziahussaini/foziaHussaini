@@ -12,13 +12,6 @@
 
 <br/>
 
-<!-- Profile Views Counter Widget (Right Aligned) -->
-<div align="right">
-  <img src="https://komarev.com" alt="Profile Views" />
-</div>
-
-<br/>
-
 <!-- 3-Column Grid Layout using HTML Tables -->
 <table>
   <tr>
@@ -32,23 +25,19 @@
     <!-- Column 2: What I Do -->
     <td valign="top" width="33%">
       <h3>💻 What I Do</h3>
-      <ul>
-        <li>Frontend engineering</li>
-        <li>Mobile app development</li>
-        <li>GIS & Remote sensing data</li>
-        <li>Disaster management tools</li>
-      </ul>
+      • Frontend engineering<br>
+      • Mobile app development<br>
+      • GIS & Remote sensing data<br>
+      • Disaster management tools
     </td>
     
     <!-- Column 3: What I Love -->
     <td valign="top" width="33%">
       <h3>🎨 What I Love</h3>
-      <ul>
-        <li>Designing smooth UI interfaces</li>
-        <li>Mapping geospatial data</li>
-        <li>Solving logical problems</li>
-        <li>Building efficient architectures</li>
-      </ul>
+      • Designing smooth UI interfaces<br>
+      • Mapping geospatial data<br>
+      • Solving logical problems<br>
+      • Building efficient architectures
     </td>
   </tr>
 </table>
@@ -63,6 +52,7 @@
   </a>
 </div>
 
+
 <br/>
 
 <div align="center">
@@ -76,7 +66,7 @@
       <img src="https://shields.io" alt="GitHub" />
     </a>
     &nbsp;&nbsp;
-    <a href="mailto:Fauziakhudadad@gmail.com">
+    <a href="mailto:fauziakhudadad@gmail.com">
       <img src="https://shields.io" alt="Email" />
     </a>
   </p>
