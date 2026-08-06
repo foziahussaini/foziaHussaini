@@ -1,5 +1,5 @@
-<!-- Left-Aligned Header Section -->
-<div>
+<!-- Centered Header Section -->
+<div align="center">
   
   # Hi 👋, I'm Fozia Hussaini
 
@@ -22,7 +22,7 @@
 <!-- 3-Column Grid Layout using HTML Tables -->
 <table>
   <tr>
-    <!-- Column 1: Building -->
+    <!-- Column 1: Focus -->
     <td valign="top" width="33%">
       <h3>📌 Focus</h3>
       <p><strong>Mobile & Web Apps</strong></p>
@@ -65,7 +65,6 @@
 
 <br/>
 
-<!-- Let's Connect Section -->
 <div align="center">
   <h3>🔗 Connect with me:</h3>
   <p>
